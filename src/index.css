@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: light --default;
+  exclude: rootscrollgutter, rootcolor;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #F5F5F5;
+}
+
+.btn-linear-gradient {
+  background: linear-gradient(125.04deg, #632EE3 5.68%, #9F62F2 88.38%);
+}

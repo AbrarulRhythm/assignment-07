@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "Login Issue",
+        "description": "User unable to login with correct credentials.",
+        "customer": "John Doe",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "9/20/2025"
+    },
+    {
+        "id": 2,
+        "title": "Payment Failed",
+        "description": "Customer reported failed payment while using credit card.",
+        "customer": "Jane Smith",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "9/19/2025"
+    },
+    {
+        "id": 3,
+        "title": "Slow Website",
+        "description": "Website is loading slowly on mobile devices.",
+        "customer": "Alex Johnson",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "createdAt": "9/18/2025"
+    },
+    {
+        "id": 4,
+        "title": "Email Not Sending",
+        "description": "User cannot send emails through the app.",
+        "customer": "Emily Davis",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "9/17/2025"
+    },
+    {
+        "id": 5,
+        "title": "App Crash",
+        "description": "App crashes when clicking on settings.",
+        "customer": "Michael Brown",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "9/16/2025"
+    },
+    {
+        "id": 6,
+        "title": "Password Reset Issue",
+        "description": "Password reset link not working.",
+        "customer": "Sarah Wilson",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "createdAt": "9/15/2025"
+    },
+    {
+        "id": 7,
+        "title": "Order Not Delivered",
+        "description": "Customer did not receive the order.",
+        "customer": "David Martinez",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "9/14/2025"
+    },
+    {
+        "id": 8,
+        "title": "Bug in Checkout",
+        "description": "Error appears when confirming payment.",
+        "customer": "Laura Garcia",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "9/13/2025"
+    },
+    {
+        "id": 9,
+        "title": "Profile Picture Upload Error",
+        "description": "Users cannot upload new profile pictures.",
+        "customer": "Chris Lee",
+        "priority": "LOW PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "9/12/2025"
+    },
+    {
+        "id": 10,
+        "title": "Subscription Cancel Issue",
+        "description": "Customer cannot cancel subscription.",
+        "customer": "Sophia Anderson",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "createdAt": "9/11/2025"
+    },
+    {
+        "id": 11,
+        "title": "Notification Not Received",
+        "description": "Push notifications not working for some users.",
+        "customer": "Daniel Thomas",
+        "priority": "LOW PRIORITY",
+        "status": "Open",
+        "createdAt": "9/10/2025"
+    },
+    {
+        "id": 12,
+        "title": "Refund Not Processed",
+        "description": "Refund request still pending after 7 days.",
+        "customer": "Olivia Martinez",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "9/9/2025"
+    },
+    {
+        "id": 13,
+        "title": "Language Translation Error",
+        "description": "Some texts not translated in French version.",
+        "customer": "William Clark",
+        "priority": "LOW PRIORITY",
+        "status": "Open",
+        "createdAt": "9/8/2025"
+    },
+    {
+        "id": 14,
+        "title": "Search Function Not Working",
+        "description": "Search results show empty page.",
+        "customer": "Isabella Hall",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "createdAt": "9/7/2025"
+    },
+    {
+        "id": 15,
+        "title": "Two-Factor Authentication Error",
+        "description": "Users not receiving OTP code.",
+        "customer": "James Allen",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "9/6/2025"
+    }
+]

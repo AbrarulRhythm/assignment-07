@@ -1,0 +1,12 @@
+.menu li a {
+    color: #000000;
+}
+
+.menu li a.btn {
+    color: #FFF;
+}
+
+.menu li a:hover {
+    background: unset;
+    color: #632EE3;
+}
