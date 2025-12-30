@@ -3,7 +3,7 @@
 ### 🌐 [Click Here To See The Demo](https://abrarulrhythm-assignment-07.netlify.app/)
 <br>
 
-<img width="1200" height="700" alt="Image" src="https://github.com/user-attachments/assets/1f256bbf-14a9-42d5-9398-b20d18be957f" />
+<img width="1200" height="700" alt="Image" src="https://github.com/user-attachments/assets/b2e57be1-588d-424a-a40a-ac478e673a5f" />
 <br>
 <br>
 
